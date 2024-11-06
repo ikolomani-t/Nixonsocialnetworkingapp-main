@@ -1,5 +1,7 @@
 # Nixonsocialnetworkingapp-main
 A social networking application with django and react. A fully functioning social media application that allows users to post content, view content like and comment on content, follow and unfollow users. Also supports dark and light theme modes.
+Click on the below link to access the app.
+https://birdie.netlify.app
 
 Tools
 
